@@ -2,5 +2,6 @@
   "directory": "bower_components",
   "resolvers": [
     "bower-shrinkwrap-resolver"
-  ]
+  ],
+  "strict-ssl": false
 }
